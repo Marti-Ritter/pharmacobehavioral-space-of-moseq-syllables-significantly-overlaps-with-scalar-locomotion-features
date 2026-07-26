@@ -14,4 +14,4 @@ These findings do not contradict the utility of MoSeq syllables. Rather, they su
 The preprint can be found at WIP.
 
 The necessary data was kindly shared by Wiltschko et al. at https://doi.org/10.5281/zenodo.3951697.
-The root_dir variable in each notebook needs to be changed to the location of the directory containing both this repository and the data subdirectory with all of the data component directories extracted.
+The root_dir variable in each notebook needs to be changed to the location of the directory containing both this repository and the data subdirectory.
