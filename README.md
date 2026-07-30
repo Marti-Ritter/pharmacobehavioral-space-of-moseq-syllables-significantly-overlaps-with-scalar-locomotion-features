@@ -1,4 +1,4 @@
-# MoSeq syllables share most information with scalar locomotion features
+# Pharmacobehavioral space of MoSeq syllables shares most information with scalar locomotion features
 
 ![Pointplot showing a comparison of 10 different classifiers fitted to two different feature sets](./images/Fig3.png)
 
