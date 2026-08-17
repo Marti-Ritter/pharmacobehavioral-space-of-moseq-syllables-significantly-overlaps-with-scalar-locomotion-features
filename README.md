@@ -11,7 +11,7 @@ These findings do not contradict the utility of MoSeq syllables. Rather, they su
 ![Pointplot showing the performance of 4 classifiers on two different feature sets with between 2 and 16 sampled treatment groups](./images/Fig5PanelB.png)
 
 ## Related files
-The preprint can be found at WIP.
+The preprint can be found at https://doi.org/10.64898/2026.08.12.744023.
 
 The necessary data was kindly shared by Wiltschko et al. at https://doi.org/10.5281/zenodo.3951697.
 The root_dir variable in each notebook needs to be changed to the location of the directory containing both this repository and the data subdirectory.
